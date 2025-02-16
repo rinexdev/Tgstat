@@ -1,5 +1,5 @@
-TOKEN = 'none'
-AID = 6892418024
+TOKEN = 'token from FatherBot'
+AID = 'admin id'
 
-BOT = "tgcstatbot"
-BID = 8083682886
+BOT = "bot_username"
+BID = 'bot_id'
